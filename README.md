@@ -28,7 +28,7 @@ npm install node-aliyun-client
  * @param    {[String]}                 AccessKeyId [阿里云访问id]
  * @param    {[String]}                 AccessKeySecret [阿里云访问密钥]
  */
-var client = require("../index").init({
+var client = require("node-aliyun-client").init({
 	AccessKeyId:AccessKeyId,
 	AccessKeySecret:AccessKeySecret
 })
