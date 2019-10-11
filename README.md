@@ -13,7 +13,7 @@ npm install node-aliyun-client
 
 ## Introduce 模块说明 
 
-> 该模块支持阿里云人脸模块，请求结果返回promise对象。参数规则参照[阿里云文档](<<https://help.aliyun.com/knowledge_detail/53399.html?spm=a2c4g.11186623.6.555.18df1f16QfVXHK>>)
+> 该模块支持阿里云人脸模块，请求结果返回promise对象。参数规则参照[阿里云文档](https://help.aliyun.com/knowledge_detail/53399.html?spm=a2c4g.11186623.6.555.18df1f16QfVXHK)
 
 ## Sample example  使用说明
 
