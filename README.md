@@ -4,12 +4,12 @@
 > 使用npm安装 
 
 ```
-npm install node-wxpay2
+npm install node-aliyun-client
 ```
 
-> [download](https://github.com/ice-penguin/node_alipay_face2face/) from github
+> [download](<https://github.com/ice-penguin/node-aliyun>) from github
 >
-> 从github[下载](https://github.com/ice-penguin/node-wxpay)
+> 从github[下载](<https://github.com/ice-penguin/node-aliyun>)
 
 ## Introduce 模块说明 
 
