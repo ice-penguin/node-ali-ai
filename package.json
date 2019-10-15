@@ -1,6 +1,6 @@
 {
   "name": "node-aliyun-client",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "node aliyun",
   "main": "index.js",
   "directories": {
