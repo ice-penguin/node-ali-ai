@@ -1,5 +1,5 @@
 # Install 安装
-> use npm isntall
+> use npm install
 >
 > 使用npm安装 
 
