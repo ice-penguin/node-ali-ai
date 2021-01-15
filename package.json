@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/ice-penguin/node-aliyun#readme",
   "dependencies": {
+    "@alicloud/facebody-2019-12-30": "^1.4.0",
+    "@alicloud/viapi-utils": "^1.0.0",
     "lodash": "^4.17.15",
     "request": "^2.88.0"
   }
